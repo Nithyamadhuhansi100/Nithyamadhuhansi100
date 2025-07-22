@@ -23,15 +23,6 @@ Faculty of Technology, University of Ruhuna.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📚 Featured Projects
-- 📘 [Book Shop Management System in C](https://github.com/nithya-s/bookshop-c)
-- 📊 [Student Result Management (Java)](https://github.com/nithya-s/student-result-java)
-- 🍽️ [CookHub E-commerce Website](https://github.com/nithya-s/cookhub)
-
-
-### 📈 GitHub Stats
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithya-s&show_icons=true&theme=radical)
-
 
 ### 📫 Connect with me!
 - 📧 Email: [nithyamaduhansi@gmail.com](mailto:nithyamaduhansi@gmail.com)
