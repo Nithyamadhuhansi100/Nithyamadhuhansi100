@@ -26,6 +26,6 @@ Faculty of Technology, University of Ruhuna.
 
 ### 📫 Connect with me!
 - 📧 Email: [nithyamaduhansi@gmail.com](mailto:nithyamaduhansi@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/nithya-madhuhansi-85588228a](www.linkedin.com/in/nithya-madhuhansi-85588228a)
+- 🔗 LinkedIn: [linkedin.com/in/nithya-madhuhansi-85588228a](https://linkedin.com/in/nithya-madhuhansi-85588228a)
 
 
